@@ -1,0 +1,38 @@
+@import "_variables.scss";
+
+body {
+  font: 300 16px sans-serif;
+  background: $grey;
+}
+
+header {
+  padding: 2em;
+  background: $red;
+  color: $white;
+  text-align:center;
+  h1 { 
+    font-weight:100;
+  }
+}
+
+#core {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+footer {
+  padding: 1em;
+  background: $red;
+}
+
+.box {
+  padding: 2em;
+  background: $white;
+}
+
+.gulp-logo {
+  width: 125px;
+  margin: 0 auto;
+  display: block; 
+}

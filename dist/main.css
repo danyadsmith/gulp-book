@@ -1,0 +1,29 @@
+body {
+  font: 300 16px sans-serif;
+  background: #EEEEEE; }
+
+header {
+  padding: 2em;
+  background: #F05D5D;
+  color: #FFFFFF;
+  text-align: center; }
+  header h1 {
+    font-weight: 100; }
+
+#core {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto; }
+
+footer {
+  padding: 1em;
+  background: #F05D5D; }
+
+.box {
+  padding: 2em;
+  background: #FFFFFF; }
+
+.gulp-logo {
+  width: 125px;
+  margin: 0 auto;
+  display: block; }
