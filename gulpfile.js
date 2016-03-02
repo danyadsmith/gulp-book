@@ -3,7 +3,6 @@ var beeper = require('beeper');
 var browserify = require('browserify');
 var browsersync = require('browser-sync');
 var concat = require('gulp-concat');
-var connect = require('connect');
 var del = require('del');
 var imagemin = require('gulp-imagemin');
 var jshint = require('gulp-jshint');
